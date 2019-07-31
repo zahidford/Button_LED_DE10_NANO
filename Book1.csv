@@ -1,0 +1,6 @@
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard
+Button_Push[0],,PIN_AH17,4A,B4A_NO,3.3-V LVTTL
+Button_Push[1],,PIN_AH16,4A,B4A_NO,3.3-V LVTTL
+Led_Out[0],,PIN_W15,5A,B4A_NO,3.3-V LVTTL
+Led_Out[1],,PIN_AA24,5A,B4A_NO,3.3-V LVTTL
+Enable_Button,,PIN_Y24,5B,B5B_NO,3.3-V LVTTL
