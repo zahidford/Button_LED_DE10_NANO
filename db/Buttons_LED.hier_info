@@ -1,0 +1,9 @@
+|Buttons_LED
+Button_Push[0] => Led_Out.DATAB
+Button_Push[1] => Led_Out.DATAB
+Enable_Button => Led_Out.OUTPUTSELECT
+Enable_Button => Led_Out.OUTPUTSELECT
+Led_Out[0] <= Led_Out.DB_MAX_OUTPUT_PORT_TYPE
+Led_Out[1] <= Led_Out.DB_MAX_OUTPUT_PORT_TYPE
+
+
